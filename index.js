@@ -6,4 +6,4 @@
     fs . writeFileSync ( 'build/index.html' ,  'Hello world ' ) ;
 } ;
 
-créerFichierIndex ( ) ;
+createIndexFile ( ) ;
