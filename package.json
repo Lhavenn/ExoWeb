@@ -14,12 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cbrasseur/hello_world.git"
+    "url": "git+https://github.com/Lhavenn/ExoWeb.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cbrasseur/hello_world/issues"
-  },
-  "homepage": "https://github.com/cbrasseur/hello_world#readme"
+  "homepage": "https://github.com/Lhavenn/ExoWeb#readme"
 }
